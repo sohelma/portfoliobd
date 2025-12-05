@@ -14,7 +14,8 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 ## Technologies Used
 - HTML5, CSS3
 
-## Installation
-1. Clone this repository:
-```bash
-git clone https://github.com/sohel
+Repo:
+https://github.com/sohelma/portfoliobd
+
+Live:
+https://sohelma.github.io/portfoliobd/
